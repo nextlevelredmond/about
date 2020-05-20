@@ -251,7 +251,6 @@ p:last-child {
 .tm-activity-img-container {
   width: 180px;
   height: 180px;
-  background-image: url("../img/jaypicture1.JPG");
   background-size: contain;
   object-fit: contain;
 }
